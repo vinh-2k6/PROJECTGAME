@@ -25,7 +25,7 @@ bool canSpawnInLane(int lane, int minGap) {
 }
 
 void spawnObstacle(int num) {
-    std::set<int> usedLanes;
+    int d[5];
     int currentY = 0;
 
     for (int i = 0; i < num; i++) {
@@ -33,7 +33,7 @@ void spawnObstacle(int num) {
         bool spawned = false;
         while (tries < 10 && !spawned) {
             int lane = rand() % 3;
-            if (usedLanes.count(lane) == 0 && canSpawnInLane(lane, 300)) {
+            if (d[lane] == 0 && canSpawnInLane(lane, 300)) {
                 usedLanes.insert(lane);
 
                 int verticalGap = 300;
