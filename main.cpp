@@ -130,7 +130,7 @@ int main(int argc, char* args[]) {
 
                 Uint32 currentTime = SDL_GetTicks();
                 if (currentTime - lastSpawnTime >= spawnInterval) {
-                    int numToSpawn = 2;
+                    int numToSpawn = 1;
                     if (score > 10) numToSpawn = 2;
 
                     spawnObstacle(numToSpawn);
