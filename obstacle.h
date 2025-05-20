@@ -26,11 +26,10 @@ void OBSTACLE() {
         }
     }
 
-    obstacles.erase(
-    remove_if(obstacles.begin(), obstacles.end(),
-            [](const auto& obs) { return !obs.active; }),
-            obstacles.end()
-    );
+    for (auto it = obstacles.begin(); it != obstacles.end(); ++it) {
+        if (!it->active) {
+            it = obstacles.erase(it); 
+    }
 
     playerX = playerLane * LANE_WIDTH + 50;
     SDL_Rect carRect = {playerX, playerY, PLAYER_SIZE, PLAYER_SIZE};
