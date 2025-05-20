@@ -23,3 +23,13 @@
   <img src="https://github.com/user-attachments/assets/3b0fa123-c383-43b4-9105-640bab6104e2" width="30%" alt="Demo 3">
 </p>
 
+**2. Bật hoặc tắt âm thanh**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7465c6c0-ccc2-47c6-ac25-992fba412496" width="45%" style="margin:10px">
+  <img src="https://github.com/user-attachments/assets/672cc4d8-7840-4c07-994d-4e83ca2fbc7b" width="45%" style="margin:10px">
+</p>
+
+**IV. Các nguồn tham khảo**
+
+
+
