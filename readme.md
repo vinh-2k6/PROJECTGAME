@@ -30,7 +30,11 @@
 </p>
 
 **IV. Các nguồn tham khảo**
-- Code được tham khảo [Lazy Foo' Production](https://lazyfoo.net/tutorials/SDL/)
-- 
+- Code được tham khảo [Lazy Foo' Production](https://lazyfoo.net/tutorials/SDL/) và những ý tưởng do giáo viên cung cấp
+- Hình ảnh các xe ô tô và background thì nhờ chatgpt vẽ
+- Hình ảnh các nút play, exit, tắt hoặc bật âm thanh thì vẽ trên [PISKEL](https://www.piskelapp.com/)
+- Ảnh RACING ATTACK được vẽ trên [CANVA](https://www.canva.com/)
+- Front chữ thì lấy từ [Google Front](https://fonts.google.com/)
+- Âm thanh được lấy từ [PIXABAY](https://pixabay.com/)
 
 
