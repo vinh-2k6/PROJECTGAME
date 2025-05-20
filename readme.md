@@ -5,10 +5,7 @@
 </p>
 
 **I.Thông tin tác giả**
-
 - Họ và tên: Đào Trọng Vinh
-
 - Mã số sinh viên: 24021677
-
 - Lớp: K69I - CS1
 
