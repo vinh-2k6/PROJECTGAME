@@ -30,6 +30,7 @@
 </p>
 
 **IV. Các nguồn tham khảo**
-
+- Code được tham khảo [Lazy Foo' Production](https://lazyfoo.net/tutorials/SDL/)
+- 
 
 
