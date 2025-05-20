@@ -1,3 +1,3 @@
 # RACING ATTACK BÀI TẬP LỚN LẬP TRÌNH NÂNG CAO
-![racing_attack](https://github.com/user-attachments/assets/309ab30d-fc24-499f-a21b-d52df8d2a99b)
-
+<img src="![racing_attack](https://github.com/user-attachments/assets/a256ebfa-ca88-4fb5-99ad-bdb3d900a728)
+" width="600"/>
